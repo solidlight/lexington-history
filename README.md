@@ -1,10 +1,5 @@
-1. AA_Fun Facts PDF doc is the new layout template for the finished work.
+# lexington-history
 
-2. ac_index.html is the reference code
+Designed for use on a 1080p tablet.
 
-3. match elements in PDF to .png files that we sent
-
-4. new file should be named aa_index.html
-
-5. please call or write with any questions
-
+View the latest version at [`https://solidlight.github.io/lexington-history`](https://solidlight.github.io/lexington-history)
