@@ -359,27 +359,5 @@
         </div>
       </div>
     </div>
-
-    <script>
-      src = "/js/jquery-3.2.1.min.js";
-
-      window.addEventListener("load", aakFunction_1, false);
-      window.addEventListener("touchend", aakFunction_1, false);
-      window.addEventListener("touchstart", aakFunction_2, false);
-
-      var aakVar_1;
-
-      function aakFunction_1() {
-        aakVar_1 = setTimeout(gotoMovie, 300000);
-      }
-
-      function gotoMovie() {
-        window.location.href = "ac_movie_index.html";
-      }
-
-      function aakFunction_2() {
-        clearTimeout(aakVar_1);
-      }
-    </script>
   </body>
 </html>
